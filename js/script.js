@@ -20,6 +20,18 @@
       var displayJSON = document.getElementById('json-display').innerHTML = json
     };
 
+    // function displayParsedJSON (json) {
+    //   console.log("line 24: entering displayParsedJSON().  Value for json is: " + json + "type of json is: " + typeof json);
+    //   var firstParse = JSON.parse(json);
+    //   var secondParse = function forInJSON (json) {
+    //     for (var key in json) {
+    //
+    //     }
+    //   }
+    //   console.log("line 26: firstParse is: " + firstParse + " type of firstParse is: " + typeof firstParse)
+    //   var parsedJSON = document.getElementById('json-parsed').innerHTML = firstParse;
+    // };
+
 
     function makeRequest() {
       console.log("line 16: entering makeRequest()");
@@ -44,8 +56,7 @@
           console.log("line 35: passed second condition, 200 validation occurred.  status is: " + httpRequest.status)
           // SECOND CHECK: everything is good, continue
           displayJSON(httpRequest.responseText);
-          alert("success! we contacted NASA" + httpRequest.responseText);
-
+          // displayParsedJSON(httpRequest.responseText)
         } else {
           console.log("line 40: failed alertContents() second condition")
           // FAIL SECOND CHECK: there's a problem with status
