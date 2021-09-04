@@ -1,6 +1,10 @@
 ﻿# Nasa_Photo_Get_Request v1.0
 
-##### Contributors: Trevor Rapp, 
+##### Contributors: Trevor Rapp
+
+<br>
+
+![Demonstration of NASA GET Request](https://user-images.githubusercontent.com/11747875/132108785-0c71ae06-bfe9-438e-a0f3-290d4f12c71f.gif)
 
 ---
 
