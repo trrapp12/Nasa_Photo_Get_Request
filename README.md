@@ -4,7 +4,7 @@
 
 <br>
 
-![Demonstration of NASA GET Request](https://user-images.githubusercontent.com/11747875/132108785-0c71ae06-bfe9-438e-a0f3-290d4f12c71f.gif)
+![Demonstration of NASA GET Request](https://user-images.githubusercontent.com/11747875/132109236-83104e87-99e6-486f-af38-84682156f35f.gif)
 
 ---
 
