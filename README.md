@@ -36,47 +36,35 @@ The course demonstrates the following:
 ---
 
 1. Create a Folder to hold the program
- > - in the terminal type `mkdir CountDownTimer` or whatever other name you want to call it. 
- > - navigate into the folder by typing `cd CountDownTimer`
- > - clone the program into the Hangman folder you just created by typing: 
+ > - in the terminal type `mkdir NASA_Photo_Get_Request` or whatever other name you want to call it. 
+ > - navigate into the folder by typing `cd NASA_Photo_Get_Request`
+ > - clone the program into the "NASA_Photo_Get_Request" folder you just created by typing: 
  
  ```
- git clone https://github.com/trrapp12/CountDownTimer.git
+ git clone https://github.com/trrapp12/Nasa_Photo_Get_Request.git
  ```
   <br/>
   
-2. Make sure you are still in the CountDownTimer folder.
+2. Make sure you are still in the NASA_Photo_Get_Request folder.
  <br/>
  
-3. From the CountDownTimer folder, on the terminal, type `cd CountDownTimer`. 
+3. From the NASA_Photo_Get_Request folder, on the terminal, type `cd NASA_Photo_Get_Request`. 
 <br/>
 
 4. Type `start index.html` to run the program from the terminal. 
 <br/>
 
-5. Enjoy!
+5. Click on the button to make a GET request and see the information populate below!
+
 <br/>
 <br/>
 
-### A few changes I made:
----
-
-- [x] updated CSS.
-- [x] changed time intervals.
-<br/>
-<br/>
 
 ### Next Steps for my v.2.0:
 ---
-- [ ] Create circle animation for countdown.
-- [ ] Create functionality to go multiple rounds with programmable rest times.
-- [ ] Adjust circle animation for every interval and every wait.
-- [ ] Add "+" and "-" buttons to add or decrement time.
-- [ ] Publish in a format I can use on my phone for my own boxing workouts.
-- [X] Add boxing sounds to indicate start of round.
-- [X] Add boxing sounds to indicate 10 sec warning and end of round.
-- [X] Add boxing sounds to indicate end of round.
-- [X] Add functionality so the sound will stop when you click a new button, so the start bell will always coordinate with you clicking a new button.
+- [ ] Create functions to iterate through the objects and pull out the information from the object.
+- [ ] Display photos and information in a better UX/UI experience.
+- [ ] integrate React.JS to create use MVC to create templates for all the information.
 
 <br/>
 <br/>
