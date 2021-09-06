@@ -21,10 +21,10 @@
 This is a personal passion project I started to challenge myself to learn how to connect to an API.  The original v1.0 demonstrates the following:
 
 - [x] Use of vanilla JavaScript to connect to an API.
-- [x] JSON.parse().
+- [x] ```JSON.parse().```
 - [x] Iterating through a JS object.
-- [x] Use of Math.floor() and Math.random() to generate a random number between 1 and 10.
-- [x] Use of querySelector() and querySelectorAll().
+- [x] Use of ```Math.floor()``` and ```Math.random()``` to generate a random number between 1 and 10.
+- [x] Use of ```querySelector()``` and ```querySelectorAll()```.
 - [x] Use of template literals `` ` ``  and placeholders `&{}`.
 
 <br/>
