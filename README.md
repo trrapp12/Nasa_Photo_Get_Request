@@ -18,16 +18,14 @@
 ### Description:
 ---
 
-This is a tutorial project offered on [Wes Bos](https://github.com/wesbos)'s [#JavaScript30](https://javascript30.com/) course.
+This is a personal passion project I started to challenge myself to learn how to connect to an API.  The original v1.0 demonstrates the following:
 
-
-The course demonstrates the following:
-- [x] Use of vanilla JavaScript to connect to an API
-- [x] JSON.parse()
-- [x] Iterating through a JS object
-- [x] Use of Math.floor() and Math.random() to generate a random number between 1 and 10
-- [x] Use of querySelector() and querySelectorAll()
-- [x] Use of template literals `` ` ``  and placeholders `&{}`
+- [x] Use of vanilla JavaScript to connect to an API.
+- [x] JSON.parse().
+- [x] Iterating through a JS object.
+- [x] Use of Math.floor() and Math.random() to generate a random number between 1 and 10.
+- [x] Use of querySelector() and querySelectorAll().
+- [x] Use of template literals `` ` ``  and placeholders `&{}`.
 
 <br/>
 <br/>
@@ -62,6 +60,7 @@ The course demonstrates the following:
 
 ### Next Steps for my v.2.0:
 ---
+- [ ] Learning how to secure the API key according to reasonable industry security measures while still allowing the project to be accessible.
 - [ ] Create functions to iterate through the objects and pull out the information from the object.
 - [ ] Display photos and information in a better UX/UI experience.
 - [ ] integrate React.JS to create use MVC to create templates for all the information.
