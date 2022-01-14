@@ -19,10 +19,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 
+<br/>
+
 ---
 
 ### Description:
----
+
 
 This is a personal passion project I started to challenge myself to learn how to connect to an API.  The original v1.0 demonstrates the following:
 
@@ -36,8 +38,9 @@ This is a personal passion project I started to challenge myself to learn how to
 <br/>
 <br/>
 
-### Instructions on how to launch:
 ---
+
+### Instructions on how to launch:
 
 1. Create a Folder to hold the program
  > - in the terminal type `mkdir NASA_Photo_Get_Request` or whatever other name you want to call it. 
@@ -63,19 +66,23 @@ This is a personal passion project I started to challenge myself to learn how to
 <br/>
 <br/>
 
+<br/>
+<br/>
+
+---
 
 ### Next Steps for my v.2.0:
----
+
 - [ ] Learning how to secure the API key according to reasonable industry security measures while still allowing the project to be accessible.
 - [ ] Create functions to iterate through the objects and pull out the information from the object.
 - [ ] Display photos and information in a better UX/UI experience.
 - [ ] integrate React.JS to create use MVC to create templates for all the information.
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### More Information:
----
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037), or return to my [Github](https://github.com/trrapp12)*
 
