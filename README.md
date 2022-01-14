@@ -66,9 +66,6 @@ This is a personal passion project I started to challenge myself to learn how to
 <br/>
 <br/>
 
-<br/>
-<br/>
-
 ---
 
 ### Next Steps for my v.2.0:
