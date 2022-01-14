@@ -50,16 +50,12 @@ This is a personal passion project I started to challenge myself to learn how to
  ```
  git clone https://github.com/trrapp12/Nasa_Photo_Get_Request.git
  ```
-  <br/>
   
 2. Make sure you are still in the NASA_Photo_Get_Request folder.
- <br/>
  
 3. From the NASA_Photo_Get_Request folder, on the terminal, type `cd NASA_Photo_Get_Request`. 
-<br/>
 
 4. Type `start index.html` to run the program from the terminal. 
-<br/>
 
 5. Click on the button to make a GET request and see the information populate below!
 
