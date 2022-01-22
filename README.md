@@ -1,4 +1,7 @@
-﻿# Nasa_Photo_Get_Request v1.0
+# Nasa_Photo_Get_Request v1.0
+
+
+##### Contributors: Trevor Rapp
 
 <br>
 
