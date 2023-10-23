@@ -37,8 +37,9 @@ https://user-images.githubusercontent.com/11747875/149466859-98e13332-3fe3-4261-
 >
 > -- Lawrence M Krauss
 
-This is a personal passion project I started to challenge myself to learn how to connect to an API.  The original v1.0 demonstrates the following:
+<br/>
 
+This is a personal passion project I started to challenge myself to learn how to connect to an API.  It all started with my desire to connect to one of my favorite subjects, Astronomy.
 
 <br/>
 
