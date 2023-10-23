@@ -1,5 +1,6 @@
 # Nasa_Photo_Get_Request v1.0
 
+*all work is completely my own*
 
 ##### Contributors: Trevor Rapp
 
@@ -9,15 +10,9 @@
 
 <br>
 
-##### Contributors: Trevor Rapp
-
-<br>
-
-
-
 https://user-images.githubusercontent.com/11747875/149466859-98e13332-3fe3-4261-9aa4-ae71d2128605.mp4
 
-
+<br/>
 
 ---
 
@@ -26,28 +21,30 @@ https://user-images.githubusercontent.com/11747875/149466859-98e13332-3fe3-4261-
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 
-<br/>
-
 ---
 
-### Description:
+### DESCRIPTION:
 
+> "Every atom in your body came from a star that exploded.
+> And, the atoms in your left hand probably came from a different
+> star than your right hand. It really is the most poetic thing
+> I know about physics: You are all stardust. You couldn’t be here
+> if stars hadn’t exploded, because the elements -
+> the carbon, nitrogen, oxygen, iron, all the things that matter
+> for evolution and for life - weren’t created at the beginning of time.
+> They were created in the nuclear furnaces of stars, and the only
+> way for them to get into your body is if those stars were kind enough to explode.
+>
+> -- Lawrence M Krauss
 
 This is a personal passion project I started to challenge myself to learn how to connect to an API.  The original v1.0 demonstrates the following:
 
-- [x] Use of vanilla JavaScript to connect to an API.
-- [x] ```JSON.parse().```
-- [x] Iterating through a JS object.
-- [x] Use of ```Math.floor()``` and ```Math.random()``` to generate a random number between 1 and 10.
-- [x] Use of ```querySelector()``` and ```querySelectorAll()```.
-- [x] Use of template literals `` ` ``  and placeholders `&{}`.
 
-<br/>
 <br/>
 
 ---
 
-### Instructions on how to launch:
+### QUICKSTART GUIDE:
 
 1. Create a Folder to hold the program
  > - in the terminal type `mkdir NASA_Photo_Get_Request` or whatever other name you want to call it. 
@@ -67,17 +64,53 @@ This is a personal passion project I started to challenge myself to learn how to
 5. Click on the button to make a GET request and see the information populate below!
 
 <br/>
+
+---
+
+### THIS PROJECT DEMONSTRATES THE FOLLOWING:
+
+- [x] Use of vanilla JavaScript to connect to an API.
+- [x] ```JSON.parse().```
+- [x] Iterating through a JS object.
+- [x] Use of ```Math.floor()``` and ```Math.random()``` to generate a random number between 1 and 10.
+- [x] Use of ```querySelector()``` and ```querySelectorAll()```.
+- [x] Use of template literals `` ` ``  and placeholders `&{}`.
+
 <br/>
 
 ---
 
-### Next Steps for my v.2.0:
+### NEXT STEPS:
 
 - [ ] Learning how to secure the API key according to reasonable industry security measures while still allowing the project to be accessible.
 - [ ] Create functions to iterate through the objects and pull out the information from the object.
 - [ ] Display photos and information in a better UX/UI experience.
 - [ ] integrate React.JS to create use MVC to create templates for all the information.
+      
 <br/>
+
+---
+
+### CHALLENGES I OVERCAME:
+
+* This was the first time I connected to an API without an instruction.
+
+<br/>
+
+---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
+
+- [X] all work is completely my own.  
+
+<br/>
+
+---
+
+### ATTRIBUTIONS
+
+* All work is completely my own.
+
 <br/>
 
 ---
